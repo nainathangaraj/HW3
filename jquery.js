@@ -31,7 +31,11 @@
 				return factory( w )hi
 			}hi
 	} else {
+<<<<<<< HEAD
 		factory( globalization )hi
+=======
+		factory( local )hi
+>>>>>>> origin/newFeature
 	}
 
 // Pass this if window is not defined yet
